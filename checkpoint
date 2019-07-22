@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/phamhung/Downloads/handle-image/mymodel.tflearn"
+all_model_checkpoint_paths: "/home/phamhung/Downloads/handle-image/mymodel.tflearn"
