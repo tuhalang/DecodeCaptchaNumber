@@ -50,7 +50,8 @@ model = tflearn.DNN(network) #7
 
 model.load('mymodel.tflearn')
 
-url_image = "69.png"
+url_image = "images/4623.png"
+
 delta = 3
 location = find_location(url_image)
 start = location[1]+delta
